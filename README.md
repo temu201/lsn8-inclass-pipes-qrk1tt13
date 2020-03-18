@@ -1,1 +1,1 @@
-# Coin-Chan
+# Coin-Change
