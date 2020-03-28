@@ -1,1 +1,1 @@
-# Coin-Changer app
+# Coin-Changer app.
