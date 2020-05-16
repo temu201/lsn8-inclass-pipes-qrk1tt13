@@ -1,1 +1,1 @@
-# Coin-Changer app. Run Locall
+# Coin-Changer app. Run Locally 
