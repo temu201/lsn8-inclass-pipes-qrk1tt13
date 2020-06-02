@@ -1,1 +1,1 @@
-# Coin-Changer app. Run Locally with $r
+# Coin-Changer app. Run Locally with $ru
