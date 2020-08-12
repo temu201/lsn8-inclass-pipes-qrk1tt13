@@ -1,1 +1,1 @@
-# Coin-Changer app. Run Locally with $ruby app.rb
+# Coin-Changer app. Run Locally with $ruby app.rb
