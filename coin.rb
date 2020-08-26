@@ -1,1 +1,1 @@
-def change(
+def change(a
