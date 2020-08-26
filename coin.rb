@@ -1,1 +1,1 @@
-def change(am
+def change(amo
