@@ -1,3 +1,3 @@
 def change(amount)
 
-	exact_cha
+	exact_chan
