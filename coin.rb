@@ -1,4 +1,4 @@
 def change(amount)
 
 	exact_change = []
-	coin
+	coin_v
