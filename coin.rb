@@ -1,4 +1,4 @@
 def change(amount)
 
 	exact_change = []
-	coin_value = {qu
+	coin_value = {qua
