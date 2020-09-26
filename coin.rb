@@ -1,4 +1,4 @@
 def change(amount)
 
 	exact_change = []
-	coin_value = {quarte
+	coin_value = {quarter
