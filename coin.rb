@@ -1,4 +1,4 @@
 def change(amount)
 
 	exact_change = []
-	coin_value = {quarter:25, di
+	coin_value = {quarter:25, dim
