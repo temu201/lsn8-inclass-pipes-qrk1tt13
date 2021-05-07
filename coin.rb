@@ -4,4 +4,4 @@ def change(amount)
 	coin_value = {quarter:25, dime:10, nickle:5, penny:1}
 	.each do |coin, key|
 		exact_change << (coin * (amount / coin)) if amount >= coin
-		amount = amo
+		amount = amou
