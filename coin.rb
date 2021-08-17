@@ -5,4 +5,4 @@ def change(amount)
 	.each do |coin, key|
 		exact_change << (coin * (amount / coin)) if amount >= coin
 		amount = amount - (coin * (amount / coin))
-	e
+	end
