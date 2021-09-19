@@ -6,4 +6,4 @@ def change(amount)
 		exact_change << (coin * (amount / coin)) if amount >= coin
 		amount = amount - (coin * (amount / coin))
 	end
-	exact_chang
+	exact_change
