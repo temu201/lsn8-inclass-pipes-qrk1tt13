@@ -7,4 +7,4 @@ def change(amount)
 		amount = amount - (coin * (amount / coin))
 	end
 	exact_change
-e
+en
