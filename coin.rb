@@ -8,3 +8,4 @@ def change(amount)
 	end
 	exact_change
 end
+
