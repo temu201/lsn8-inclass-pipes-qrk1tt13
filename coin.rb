@@ -10,4 +10,4 @@ def change(amount)
 end
 
 
-# Writ
+# Write
