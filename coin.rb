@@ -10,4 +10,4 @@ def change(amount)
 end
 
 
-# Write a function that tak
+# Write a function that take
