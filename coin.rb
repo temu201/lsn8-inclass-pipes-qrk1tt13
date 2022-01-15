@@ -10,4 +10,4 @@ def change(amount)
 end
 
 
-# Write a function that takes a numbe
+# Write a function that takes a number
