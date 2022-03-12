@@ -10,4 +10,4 @@ def change(amount)
 end
 
 
-# Write a function that takes a number of cents, and that returns a h
+# Write a function that takes a number of cents, and that returns a ha
