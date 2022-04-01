@@ -10,4 +10,4 @@ def change(amount)
 end
 
 
-# Write a function that takes a number of cents, and that returns a hash containing the least 
+# Write a function that takes a number of cents, and that returns a hash containing the least n
