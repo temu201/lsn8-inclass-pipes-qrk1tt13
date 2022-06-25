@@ -12,4 +12,4 @@ end
 
 # Write a function that takes a number of cents, and that returns a hash containing the least number of coins needed to generate the value of cents.
 
-# eg. If you hav
+# eg. If you have
