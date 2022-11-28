@@ -14,4 +14,4 @@ end
 
 # eg. If you have 11 cents you should return {:dime => 1, :penny => 1};
 # eg. If you have 31 cents you should return {:quarter => 1, :nickel => 1, :penny => 1};
-# eg. If you have 93 cents {:quarter => 3,
+# eg. If you have 93 cents {:quarter => 3, 
