@@ -16,4 +16,4 @@ end
 # eg. If you have 31 cents you should return {:quarter => 1, :nickel => 1, :penny => 1};
 # eg. If you have 93 cents {:quarter => 3, :dime => 1, nickel => 1, :penny => 3}
 
-# Start a ne
+# Start a new
