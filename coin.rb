@@ -17,4 +17,4 @@ end
 # eg. If you have 93 cents {:quarter => 3, :dime => 1, nickel => 1, :penny => 3}
 
 # Start a new repo
-# Build up your coin_changer using tests. Commit to 
+# Build up your coin_changer using tests. Commit to g
