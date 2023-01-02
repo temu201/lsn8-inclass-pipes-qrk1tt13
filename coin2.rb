@@ -5,3 +5,4 @@ def coin_value(amount)
 	change = {:quarter => 0, :dime => 0, :nickle => 0, :penny => 0}
 	cents.each do |key, value|
 		while value <= amount
+			change[key] += 1
