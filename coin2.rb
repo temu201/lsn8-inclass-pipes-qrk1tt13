@@ -12,3 +12,4 @@ def coin_value(amount)
 
 
 change
+end
