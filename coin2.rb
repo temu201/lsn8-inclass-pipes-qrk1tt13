@@ -9,3 +9,4 @@ def coin_value(amount)
 			amount = amount - value
 		end
 	end
+
