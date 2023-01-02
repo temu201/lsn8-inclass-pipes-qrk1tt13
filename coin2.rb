@@ -6,3 +6,4 @@ def coin_value(amount)
 	cents.each do |key, value|
 		while value <= amount
 			change[key] += 1
+			amount = amount - value
