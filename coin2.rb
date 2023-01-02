@@ -7,3 +7,4 @@ def coin_value(amount)
 		while value <= amount
 			change[key] += 1
 			amount = amount - value
+		end
