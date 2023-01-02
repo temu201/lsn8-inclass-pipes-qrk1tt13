@@ -8,3 +8,4 @@ def coin_value(amount)
 			change[key] += 1
 			amount = amount - value
 		end
+	end
