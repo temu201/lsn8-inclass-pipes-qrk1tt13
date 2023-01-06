@@ -9,3 +9,4 @@ erb :change_input, :locals => {:amount => '', :results => '', :message_one => ''
 end
 
 post '/amount' do
+	amount = params[:change_input]
