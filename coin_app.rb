@@ -12,3 +12,5 @@ post '/amount' do
 	amount = params[:change_input]
 
 results = change(amount)
+
+erb :change_input, :locals => {:amount => amount, :results => results, :message_one => " is the", :number => ' change '} 
