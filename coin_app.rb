@@ -10,3 +10,5 @@ end
 
 post '/amount' do
 	amount = params[:change_input]
+
+results = change(amount)
