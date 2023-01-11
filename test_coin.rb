@@ -12,3 +12,6 @@ class TestCoinChanger < Minitest::Test
 	# 	amount = 1
 	# 	assert_equal([1], change(amount))
 	# end
+
+	# def test_5_cents_returns_one_nickle
+	# 	amount = 5
