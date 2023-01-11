@@ -19,3 +19,4 @@ class TestCoinChanger < Minitest::Test
 	# end		
 
 	# def test_7_cents_returns_1N_2P
+	# 	amount = 7
