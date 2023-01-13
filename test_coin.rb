@@ -25,3 +25,4 @@ class TestCoinChanger < Minitest::Test
 
 	# def test_14_cents_returns_1D_4P
 	# 	amount = 14
+	# 	assert_equal([10, 1, 1, 1, 1], change(amount))
