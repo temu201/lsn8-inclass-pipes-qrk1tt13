@@ -32,3 +32,5 @@ class TestCoinChanger < Minitest::Test
 	# 	amount = 25
 	# 	assert([1], change(amount))
 	# end
+
+	# def test_36_cents_returns_1Q_1D_1P
