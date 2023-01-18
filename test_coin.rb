@@ -45,3 +45,5 @@ class TestCoinChanger < Minitest::Test
 
 	def test_99_returns_3Q_2D_4P
 		amount = change(99)
+		assert_equal({quarter:3, dime:2, nickle: 0, penny:4}, amount)
+	end
