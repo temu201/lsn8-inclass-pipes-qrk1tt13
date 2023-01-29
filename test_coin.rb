@@ -49,3 +49,4 @@ class TestCoinChanger < Minitest::Test
 	end
 
 	# def test_99_returns_3Q_2D_4P
+	# 	amount = 99
