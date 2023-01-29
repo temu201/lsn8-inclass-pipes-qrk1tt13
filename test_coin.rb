@@ -52,3 +52,4 @@ class TestCoinChanger < Minitest::Test
 	# 	amount = 99
 	# 	assert_equal {quarter: 3, dime: 2, penny: 4}, change(amount)
 	# end
+end
