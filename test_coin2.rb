@@ -8,3 +8,4 @@ class TestCoinChanger < Minitest::Test
 		assert_equal(4, coin_value(0).length)
 	end
 	
+	def test_hash_length
