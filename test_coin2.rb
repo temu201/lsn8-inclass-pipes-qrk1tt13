@@ -15,3 +15,5 @@ class TestCoinChanger < Minitest::Test
 	def test_20_cent_returns_2_dimes
 		assert_equal({:quarter => 0, :dime => 2, :nickle => 0, :penny => 0}, coin_value(20))
 	end
+
+	def test_51_equals_2_quarters_1_penny
