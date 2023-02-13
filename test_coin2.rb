@@ -31,3 +31,7 @@ class TestCoinChanger < Minitest::Test
 	def test_99_returns_3Q_2D_4P
 		assert_equal({:quarter => 3, :dime => 2, :nickle => 0, :penny => 4}, coin_value(99))
 	end
+
+	def test_15_returing_most_amount_of_change #testing to see if code is returing smallest amount of change
+		assert_equal({:quarter => 0, :dime => 0, :nickle => 2, :penny => 5}, coin_value(15))
+	end
