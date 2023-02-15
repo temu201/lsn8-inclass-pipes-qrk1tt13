@@ -35,3 +35,4 @@ class TestCoinChanger < Minitest::Test
 	def test_15_returing_most_amount_of_change #testing to see if code is returing smallest amount of change
 		assert_equal({:quarter => 0, :dime => 0, :nickle => 2, :penny => 5}, coin_value(15))
 	end
+		#test failed, expected 1 dime, 1 nickle. << what we wanted to happen
